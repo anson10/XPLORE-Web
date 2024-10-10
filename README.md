@@ -15,7 +15,6 @@ Welcome to my personal website! This site showcases my projects, skills, and lea
 - **Backend**: .NET, Express.js
 - **Other Tools**: 
   - Version control with **Git**
-  - Hosting with **GitHub Pages/Netlify/Heroku** (choose one)
   
 ## How to Contribute
 
